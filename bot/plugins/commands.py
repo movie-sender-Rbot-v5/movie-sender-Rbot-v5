@@ -30,7 +30,7 @@ async def start(bot, update):
             await bot.send_document(
                 chat_id=update.chat.id,
                 document = file_id,
-                caption = caption,
+                caption = @MLM_MOVIE_STORE,
                 parse_mode="html",
                 reply_to_message_id=update.message_id,
                 reply_markup=InlineKeyboardMarkup(
@@ -50,7 +50,7 @@ async def start(bot, update):
             await bot.send_video(
                 chat_id=update.chat.id,
                 video = file_id,
-                caption = caption,
+                caption = @MLM_MOVIE_STORE,
                 parse_mode="html",
                 reply_markup=InlineKeyboardMarkup(
                     [
@@ -69,7 +69,7 @@ async def start(bot, update):
             await bot.send_audio(
                 chat_id=update.chat.id,
                 audio = file_id,
-                caption = caption,
+                caption = @MLM_MOVIE_STORE,
                 parse_mode="html",
                 reply_markup=InlineKeyboardMarkup(
                     [
@@ -89,10 +89,10 @@ async def start(bot, update):
         return
 
     buttons = [[
-        InlineKeyboardButton('⚜️MAIN GROUP⚜️', url='https://t.me/MLM_MOVIE_STORE'),
-        InlineKeyboardButton('⚜️ MAIN CHANEL⚜️', url ='https://t.me/mlm_movie_2')
+        InlineKeyboardButton('🏅 MAIN GROUP 🏅', url='https://t.me/MLM_MOVIE_STORE'),
+        InlineKeyboardButton('🏅 MAIN CHANEL 🏅', url ='https://t.me/mlm_movie_2')
     ],[
-        InlineKeyboardButton('⚜️NEW MOVIE UPDATEDS⚜️', url='https://t.me/mlm_movies_update')
+        InlineKeyboardButton('🏅 NEW MOVIE UPDATEDS 🏅', url='https://t.me/mlm_movies_update')
     ],[
         InlineKeyboardButton('Help ⚙', callback_data="help")
     ]]
