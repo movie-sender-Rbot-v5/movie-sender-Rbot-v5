@@ -7,8 +7,8 @@ class Translation(object):
     
     START_TEXT = """<b>Hey {}!!</b>
 <i>Am Just A Advance Auto Filter Bot....😉
-
-Only For <b><u><a href="https://t.me/joinchat/TRlZZilyh-MVa66t">Universal Film Studio Group</a></u></b>
+എന്നെ MLM_MOVIE_STORE ഗ്രൂപ്പിൽ മാത്രേ ഉപയോഗിക്കാൻ പറ്റൂ 😝
+Only For <b><u><a href="@MLM_MOVIE_STORE">@MLM_MOVIE_STORE</a></u></b>
 
 For More Details Click Help Button Below..
 
@@ -50,7 +50,7 @@ For More Details Click Help Button Below..
     
     ABOUT_TEXT = """<b>➥ Name</b> : <code> Advanced Auto Filter Bot</code>
     
-<b>➥ Creator</b> : <b><i><a href="https://t.me/lnc3f3r">LuCifer</a></i></b>
+<b>➥ Creator</b> : <b><i><a href="@mrplantozz">@mrplantozz</a></i></b>
 
 <b>➥ Language</b> : <code>Python3</code>
 
