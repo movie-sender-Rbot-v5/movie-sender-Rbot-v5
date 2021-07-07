@@ -1,4 +1,4 @@
-# UFS Adv Auto Filter Bot V3
+# movie-sender-Rbot-v5
 
 <p align="center">
   <a href="https://github.com/jinspalakkattu/UFS-Adv-Auto-Filter-Bot-V3/stargazers">
